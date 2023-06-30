@@ -1,1 +1,7 @@
+{
+  "tests": [
+    "test_tarea.py"
+  ],
+  "output": "results.txt"
+}
 
